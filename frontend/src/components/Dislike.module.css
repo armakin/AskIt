@@ -1,0 +1,19 @@
+.dislike {
+    display: inline;
+}
+
+.active {
+    color: #cd0200;
+}
+
+.number {
+    margin-bottom: 20px;
+    display: inline;
+    padding: 0 5px 5px 0;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.dislike:hover {
+    cursor: pointer;
+}

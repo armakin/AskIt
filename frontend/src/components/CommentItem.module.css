@@ -1,0 +1,53 @@
+.commentDiv {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  background-color: rgb(246, 246, 246);
+  padding: 10px;
+  margin: 5px 50px 5px 15px;
+}
+
+.item {
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.item:last-of-type {
+  border-bottom: none;
+}
+
+.item figure {
+  margin: 0;
+  padding: 0;
+  width: 70%;
+}
+
+.item blockquote {
+  margin: 0;
+  text-align: left;
+  font-size: 1rem;
+  color: #212929;
+}
+
+.item p {
+  margin: 0;
+  margin-bottom: 0.25rem;
+}
+
+.item figcaption {
+  font-style: italic;
+  color: #566d6d;
+}
+
+.iconDiv {
+  margin-left: 20px;
+  text-align: right;
+}
+
+.comment {
+
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 15px;
+  background-color: rgb(253, 253, 253);
+
+}

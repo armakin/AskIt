@@ -1,0 +1,19 @@
+.like {
+    display: inline;
+}
+
+.active {
+    color: #3cb521;
+}
+
+.number {
+    margin-bottom: 20px;
+    display: inline;
+    padding: 0 5px 5px 0;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.like:hover {
+    cursor: pointer;
+}
